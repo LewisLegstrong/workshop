@@ -2,7 +2,7 @@
 
 
 int main () {
-    const char phrase[] = {"Hello Engineers"};
+    const char phrase[] = {"Hello World!"};
     printString(phrase);
 
     return (0);
